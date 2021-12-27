@@ -2,7 +2,7 @@
 # Overview
 This is the application I made for the shoe store to manage its orders and shoes' information it has. I hope you enjoy it.
 
-[Hello World Demo Video] (https://youtu.be/7pEtxcEFnxo) 
+[Sneaker-management-app Demo Video] (https://youtu.be/7pEtxcEFnxo) 
 # Development
 * Visual studio code
 * python.3.9.1 64-bit
